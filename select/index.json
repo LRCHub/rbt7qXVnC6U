@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Don't Stop！Carry On！",
+  "base_artist": "RD",
+  "createdAt": "2025-12-03T13:52:43.129307Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Stop! Carry On!",
+      "artist": "RD",
+      "has_synced": true,
+      "path": "select/01_Don't_Stop!_Carry_On!_RD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don’t Stop！Carry On！",
+      "artist": "RD",
+      "has_synced": true,
+      "path": "select/02_Don’t_Stop!Carry_On!_RD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don’t Stop! Carry On!",
+      "artist": "RD",
+      "has_synced": true,
+      "path": "select/03_Don’t_Stop!_Carry_On!_RD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Stop! Carry On!",
+      "artist": "RD",
+      "has_synced": true,
+      "path": "select/04_Don't_Stop!_Carry_On!_RD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Stop！Carry On！",
+      "artist": "RD",
+      "has_synced": true,
+      "path": "select/05_Don't_Stop!Carry_On!_RD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "don't stop carry on",
+      "artist": "rd",
+      "has_synced": true,
+      "path": "select/06_don't_stop_carry_on_rd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Stop！Carry On！",
+      "artist": "RD",
+      "has_synced": true,
+      "path": "select/07_Don't_Stop!Carry_On!_RD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don’t Stop!Carry On!",
+      "artist": "RD",
+      "has_synced": false,
+      "path": "select/pl_01_Don’t_Stop!Carry_On!_RD.txt"
+    }
+  ]
+}
